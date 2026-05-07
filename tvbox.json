@@ -1,0 +1,20 @@
+{
+  "lives": [
+    {
+      "name": "幽魂直播",
+      "type": 0,
+      "url": "https://mclei.cc.cd/youhun.m3u",
+      "playerType": 2
+    }
+  ],
+  "sites": [
+    {
+      "key": "leitv",
+      "name": "🎬雷TV点播",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/leitv/tv/raw/master/tvbox.json",
+      "searchable": 1,
+      "filterable": 1
+    }
+  ]
+}
