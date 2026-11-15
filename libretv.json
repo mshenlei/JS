@@ -1,0 +1,68 @@
+{
+  "name": "LibreTV 短剧点播源合集",
+  "version": 2,
+  "note": "以下均为 Apple CMS 标准采集接口，已实测含短剧/爽文短剧分类；在 LibreTV「设置 → 源管理 → 数据源订阅」导入本 JSON，或在「点播源 → 添加 API」逐条填入。",
+  "sources": [
+    {
+      "name": ".非凡资源 · 短剧",
+      "url": "https://api.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "暴风资源 · 短剧大全",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": "https://bfzy.tv",
+      "isAdult": false
+    },
+    {
+      "name": ".飘零资源 · 短剧",
+      "url": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net",
+      "isAdult": false
+    },
+    {
+      "name": ".最大资源 · 爽文短剧",
+      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": "https://zuida.xyz",
+      "isAdult": false
+    },
+    {
+      "name": ".豪华资源 · 短剧",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com",
+      "isAdult": false
+    },
+    {
+      "name": ".茅台资源 · 短剧大全",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://mtzy.me",
+      "isAdult": false
+    },
+    {
+      "name": ".极速资源 · 短剧",
+      "url": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jszyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": ".无尽资源 · 短剧",
+      "url": "https://api.wujinapi.me/api.php/provide/vod",
+      "detail": "https://wujinzy.com",
+      "isAdult": false
+    },
+    {
+      "name": ".速播资源 · 短剧",
+      "url": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "https://www.subozy.com",
+      "isAdult": false
+    },
+    {
+      "name": ".360资源 · 爽文短剧",
+      "url": "https://360zyzz.com/api.php/provide/vod",
+      "detail": "https://360zy.com",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
