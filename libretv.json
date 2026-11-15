@@ -1,4 +1,6 @@
 {
+  "name": "LibreTV",
+  "sources": [
     {
       "name": "非凡资源",
       "url": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -59,4 +61,6 @@
       "detail": "https://360zy.com",
       "isAdult": false
     }
+  ],
+  "liveSources": []
 }
